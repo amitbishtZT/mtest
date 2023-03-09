@@ -1,4 +1,5 @@
 //Execution:- node send-jira.js <peojectkey> <type> <commit sha>
+//Eg: node send-jira.js DEVOPS 2 8e8b264bb55153e542ce17ae1c70485e4557409d
 
 const { exec } = require("child_process");
 const https = require('https');
