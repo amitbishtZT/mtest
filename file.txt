@@ -1,3 +1,3 @@
-c
+cn
 
 git log --format=%B  9afb7aac8c3de2d0950d72e4f9b8248077a1e01b^..9afb7aac8c3de2d0950d72e4f9b8248077a1e01b
